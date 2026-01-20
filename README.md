@@ -1,4 +1,4 @@
-<img width="336" height="402" alt="image" src="https://github.com/user-attachments/assets/2ec1e9a5-2c4e-479d-a311-64e8f668587d" /># kalavampara_theatre
+# kalavampara_theatre
 A Python and MySQL–based theatre seat booking system with a user-friendly GUI for real-time seat selection, pricing, and booking management along with an admin interface.
 
 
@@ -32,10 +32,12 @@ Each of the languages shown in the main screen have two movies. The movies are s
 ## 5.Movie Details:
 Each movie is presented with its brief description, the genre of the movie, duration and cast of the film. A link is also attached, this link redirects the user to the official trailer of the movie. Then,
 user may book their seats according to availability and likings.
+
 <img width="338" height="285" alt="image" src="https://github.com/user-attachments/assets/8752556a-5f1f-4d5c-a809-4805c95e2209" />
 
 ## 6.Seat Booking:
 To ensure a hassle-free experience, plan ahead by checking schedules early to secure your preferred seats. Consider your seating preferences here. The Grey seats are the seats already booked. This data is gathered from mysql table of that movie. A clear button is also present which allows to clear all selected seats and book button to continue with the booking.
+
 <img width="336" height="402" alt="image" src="https://github.com/user-attachments/assets/a7cb2cb9-766e-4e05-97b2-78602379a13c" />
 
 ## 7.Snacks Booking:
@@ -44,6 +46,7 @@ To ensure a comfortable experience, pre-order the snacks for the show. With vide
 
 ## 8.Final Receipt:
 The receipt shows the total money along with the discounts available. It shows a descriptive detail of the order made of seats booking along with snacks ordered. Once the order is confirmed, the details are stored in mysql.
+
 <img width="394" height="433" alt="image" src="https://github.com/user-attachments/assets/4e94d238-018a-45f7-85a5-2bd3950bc2a9" />
 <img width="395" height="207" alt="image" src="https://github.com/user-attachments/assets/a52e83a7-a265-4dd1-b9d7-d541ed0b1363" />
 
@@ -54,6 +57,7 @@ From the Menu Screen, we can also login as Admin. First, it alerts the user that
 
 ## 10.Admin Page:
 All the six available movies are shown. Each movie then showcases all the customers who have booked that particular movie.
+
 <img width="318" height="407" alt="image" src="https://github.com/user-attachments/assets/d61058f5-97fe-4d28-8b39-da1ddbac969b" />
 
 ## 11.Movie Admin:
